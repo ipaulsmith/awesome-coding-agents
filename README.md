@@ -23,6 +23,7 @@
 | 🔥 | [oh-my-pi](https://github.com/can1357/oh-my-pi) | hash-edits, lsp, browser, subagents | AI coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
 | 🧪 | [Claude Code](https://github.com/anthropics/claude-code) | terminal, codebase, git-workflows | Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows — all through natural language commands |
 | 🧪 | [Codex CLI](https://github.com/openai/codex) | lightweight, terminal, cli | Lightweight coding agent that runs in your terminal |
+| 🧪 | [3code](https://github.com/capocasa/3code) | cost-optimization, caching, compaction, byo-provider | The economical coding agent — token budget as a first-class constraint (chunked context, supersede-aware compaction, aggressive caching); any OpenAI-compatible endpoint, 75% fewer tokens than OpenCode on a SWE-bench subset |
 
 ## CLI Agent Helpers
 

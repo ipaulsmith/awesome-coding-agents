@@ -93,6 +93,7 @@
 | 🧪 | [OpenUsage](https://github.com/robinebers/openusage) | subscriptions, usage, dashboard | Track all your AI coding subscriptions in one place |
 | 👀 | [ax](https://github.com/Necmttn/ax) | telemetry, dashboard, mcp, usage | Local-first observability and memory layer for AI coding-agent sessions |
 | 👀 | [Relay](https://github.com/ImBIOS/relay) | llm-proxy, provider-switch, usage, quota-rotation | Universal AI API proxy — hot-switch between GitHub Copilot, OpenAI, Anthropic, DeepSeek, Groq, Ollama, and 10+ providers from Claude Code, Codex CLI, Aider, or any coding agent without restarting. Auto-rotates accounts when quota exhausted, real-time usage tracking |
+| 👀 | [Usage HUD](https://github.com/Thalia-Bloom/usage-hud) | macos, menubar, usage, confidence | Usage HUD: one macOS menu-bar meter for Codex, Claude, Gemini, Grok and local models, with a confidence label on every number |
 
 ---
 

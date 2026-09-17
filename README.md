@@ -61,6 +61,7 @@
 | 👀 | [kgai](https://github.com/kgaidev/kgai) | memory, decisions, local-first, s3-sync | Shared memory for AI dev teams — an immutable knowledge graph of the decisions behind your code, auto-captured by your agent and synced without merge conflicts. |
 | 👀 | [YYLO](https://github.com/yylo-dev/yylo) | orchestration, kanban, git-worktrees, multi-agent | YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers. |
 | 👀 | [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) | evaluation, benchmarks, evidence, worktrees | YYLO Benchmark: longitudinal evaluation and immutable evidence for agent runs. |
+| 👀 | [Tintpad](https://github.com/sorkila/tintpad) | macos, launcher, hotkey, local-first | It falls out of your notch. Hotkey, repo, Return: your terminal opens with Claude Code, Codex or any agent already running. Free, MIT, local-only macOS. |
 
 ## Agent Instructions
 

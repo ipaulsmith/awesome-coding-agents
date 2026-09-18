@@ -86,6 +86,7 @@
 | 🧪 | [rtk](https://github.com/rtk-ai/rtk) | token-saving, proxy, rust | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands — single Rust binary, zero dependencies |
 | 🧪 | [ponytail](https://github.com/DietrichGebert/ponytail) | token-saving, agent-skills, minimalism | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | 👀 | [agent-scripts](https://github.com/ejboy/agent-scripts) | token-saving, build-output, local-first | Token-efficient, local-first CLI tools for coding agents - compact Maven, npm/Node, and Go test output plus reusable development helpers. |
+| 👀 | [ctxtrim](https://github.com/AgentPostmortem/Ctxtrim) | context, token-saving, cli | Trim what bloats your AI coding context — find the files ballooning your Claude Code / Cursor / Codex token cost and write ignore files to cut it. Zero-dep. npx ctxtrim |
 
 ## Subscription Management
 

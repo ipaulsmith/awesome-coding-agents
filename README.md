@@ -72,6 +72,7 @@
 | 🔥 | [coding-agent-instructions](https://github.com/kailiu42/coding-agent-instructions) | instructions, rules, progressive-disclosure | Rules for coding agents. Modular design, progressive disclosure without eating your context window or distract your agents |
 | 👀 | [Agent Quality Kit](https://github.com/arsen-ask-lx/Agent_Quality_Kit) | agents-md, quality-gates, exit-codes, compliance-levels, zero-dependencies | Turns the rules an agent is supposed to follow into commands with exit codes, and reports which of them actually run. Levels AQK-0…3 computed by a run. Zero dependencies. |
 | 👀 | [AGENTS.md Starter Kit](https://github.com/sunxiayi/agents-md-starter-kit) | agents-md, templates, cli, github-actions | One-command AGENTS.md starter templates for monorepos, Python, Next.js, Codex, Claude Code, Cursor, Copilot, Gemini CLI, and Windsurf. |
+| 👀 | [check-docs](https://github.com/ipaulsmith/check-docs) | agents-md, claude-md, pre-commit, stale-paths | A small sh pre-commit check that stops a commit when CLAUDE.md, AGENTS.md or the files they @import name a path that no longer exists or a name you deleted |
 
 ## Knowledge & Context
 

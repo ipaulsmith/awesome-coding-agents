@@ -97,6 +97,8 @@
 | 👀 | [Usage HUD](https://github.com/Thalia-Bloom/usage-hud) | macos, menubar, usage, confidence | Usage HUD: one macOS menu-bar meter for Codex, Claude, Gemini, Grok and local models, with a confidence label on every number |
 
 ---
+| 👀 | [NextReset](https://nextreset.ai/) | codex, reset-history, incidents, local-timer | Independent Codex reset-history tracker with official incident sources and a browser-local personal timer; historical observations do not guarantee future reset timing |
+
 
 ## Local commands
 

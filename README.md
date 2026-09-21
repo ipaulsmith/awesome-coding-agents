@@ -64,6 +64,7 @@
 | 👀 | [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) | evaluation, benchmarks, evidence, worktrees | YYLO Benchmark: longitudinal evaluation and immutable evidence for agent runs. |
 | 👀 | [Tintpad](https://github.com/sorkila/tintpad) | macos, launcher, hotkey, local-first | It falls out of your notch. Hotkey, repo, Return: your terminal opens with Claude Code, Codex or any agent already running. Free, MIT, local-only macOS. |
 | 👀 | [Orkas](https://github.com/Orkas-AI/Orkas) | desktop, orchestration, local-first, coding-agents | Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local sessions. Agents self-evolve via reflection and skill crystallization. BYO keys. macOS / Windows / Linux. |
+| 👀 | [check-docs](https://github.com/ipaulsmith/check-docs) | agents-md, claude-md, pre-commit, stale-paths | A small sh pre-commit check that stops a commit when CLAUDE.md, AGENTS.md or the files they @import name a path that no longer exists or a name you deleted |
 
 ## Agent Instructions
 
@@ -72,7 +73,6 @@
 | 🔥 | [coding-agent-instructions](https://github.com/kailiu42/coding-agent-instructions) | instructions, rules, progressive-disclosure | Rules for coding agents. Modular design, progressive disclosure without eating your context window or distract your agents |
 | 👀 | [Agent Quality Kit](https://github.com/arsen-ask-lx/Agent_Quality_Kit) | agents-md, quality-gates, exit-codes, compliance-levels, zero-dependencies | Turns the rules an agent is supposed to follow into commands with exit codes, and reports which of them actually run. Levels AQK-0…3 computed by a run. Zero dependencies. |
 | 👀 | [AGENTS.md Starter Kit](https://github.com/sunxiayi/agents-md-starter-kit) | agents-md, templates, cli, github-actions | One-command AGENTS.md starter templates for monorepos, Python, Next.js, Codex, Claude Code, Cursor, Copilot, Gemini CLI, and Windsurf. |
-| 👀 | [check-docs](https://github.com/ipaulsmith/check-docs) | agents-md, claude-md, pre-commit, stale-paths | A small sh pre-commit check that stops a commit when CLAUDE.md, AGENTS.md or the files they @import name a path that no longer exists or a name you deleted |
 
 ## Knowledge & Context
 
